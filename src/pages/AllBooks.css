@@ -1,0 +1,11 @@
+li{
+    list-style-type: none;
+}
+.all{
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+}
+.header{
+    text-align: center;
+}
